@@ -10,6 +10,7 @@ Backend of application
 PASTE CODE FROM BELOW AND REPLACE YOUR MONGO_URL
 
 PORT=5000
+
 MONGO_URL=YOUR_MONGO_URL
 
 now run "node index.js"
