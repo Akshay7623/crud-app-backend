@@ -17,7 +17,11 @@ now run "node index.js"
 we have 5 api endpoint which are below
 
 /api/create -> Create new record in database  - name:String, mobile:String, age:Number, address:String
+
 /api/getusers -> Read all the records from the database - no parameter required
+
 /api/getuser - > To get a single document from database - id: Object id of the documnet
+
 /api/updateuser - > To Update a single record in databse - id:ObjectId, name:String, mobile:String, age:Number, address:String
+
 /api/deleteuser -> To Delete a record from the database - id:ObjectId
